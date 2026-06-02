@@ -1,0 +1,11 @@
+{
+  "name": "amocrm-meta-capi",
+  "version": "1.0.0",
+  "private": true,
+  "engines": {
+    "node": "18.x"
+  },
+  "dependencies": {
+    "qs": "^6.13.0"
+  }
+}
